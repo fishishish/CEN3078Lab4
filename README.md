@@ -1,5 +1,9 @@
 # Secure Dice Roller
 
+## Security Badges
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/CEN3078Lab4/badge)](https://www.bestpractices.dev/projects/CEN3078Lab4)
+[![OpenSSF Scorecard](https://api.scorecard.dev/v1/badge/github.com/fishishish/open-ssf-scorecard-demo)](https://scorecard.dev)
+
 ## Project Description
 A secure, open-source dice rolling application demonstrating best practices in web security and software development.
 
