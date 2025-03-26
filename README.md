@@ -29,6 +29,3 @@ For security concerns, please review [SECURITY.md](SECURITY.md)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- OpenSSF Best Practices Badge Program
